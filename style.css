@@ -1,0 +1,30 @@
+* {
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+input {
+    background-color: azure;
+    margin-bottom: 2px;
+}
+
+label {
+    margin-bottom: 2px;
+}
+
+button {
+    background-color: azure;
+}
+
+.wrapper {
+    border: black solid 2px;
+    width: 35em;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.wrapper, h1, p, label, span, h3 {
+    background-color: lightgray;
+}
